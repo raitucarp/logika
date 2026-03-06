@@ -9,8 +9,7 @@ export default function Home() {
           <span className="text-yellow-400">{`<Pracutiar>`}</span>
         </div>
         <div className="flex gap-2">
-          <span className="text-white">Teori</span>
-          <span className="text-yellow-400">Himpunan</span>
+          <span className="text-white">Logika</span>
         </div>
       </main>
     </div>
